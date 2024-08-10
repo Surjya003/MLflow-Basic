@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/surjy/OneDrive/Desktop/mlflow-test/mlruns/0/07747a91583443308a73bbca5f17156d/artifacts
+deleted_time: 1723311382805
+end_time: 1723214186735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 07747a91583443308a73bbca5f17156d
+run_name: nervous-koi-270
+run_uuid: 07747a91583443308a73bbca5f17156d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723214182978
+status: 3
+tags: []
+user_id: surjy

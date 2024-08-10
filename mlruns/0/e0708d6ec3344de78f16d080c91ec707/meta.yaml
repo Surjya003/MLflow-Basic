@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/surjy/OneDrive/Desktop/mlflow-test/mlruns/0/e0708d6ec3344de78f16d080c91ec707/artifacts
+deleted_time: 1723311382804
+end_time: 1723213733385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e0708d6ec3344de78f16d080c91ec707
+run_name: sassy-gnat-529
+run_uuid: e0708d6ec3344de78f16d080c91ec707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723213724729
+status: 3
+tags: []
+user_id: surjy

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surjy/OneDrive/Desktop/mlflow-test/mlruns/0/6c281ded9a434a00803d0af7884d169f/artifacts
+end_time: 1723311199338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c281ded9a434a00803d0af7884d169f
+run_name: traveling-bee-453
+run_uuid: 6c281ded9a434a00803d0af7884d169f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723311195874
+status: 3
+tags: []
+user_id: surjy
